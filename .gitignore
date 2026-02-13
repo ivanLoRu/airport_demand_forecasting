@@ -31,5 +31,8 @@ build/
 .eggs/
 *.log
 
-#big ass data files
+#big data files
 data
+
+#graphs and metrics
+outputs
